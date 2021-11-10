@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "group:/Users/hfy/Documents/test/FFMpegVideoPlayer/FFMpegVideoPlayer/FFMpeg"
+      name = "FFMpeg">
+      <Group
+         location = "group:include"
+         name = "include">
+         <Group
+            location = "group:libpostproc"
+            name = "libpostproc">
+            <FileRef
+               location = "group:version.h">
+            </FileRef>
+            <FileRef
+               location = "group:postprocess.h">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:libavfilter"
+            name = "libavfilter">
+            <FileRef
+               location = "group:version.h">
+            </FileRef>
+            <FileRef
+               location = "group:buffersrc.h">
+            </FileRef>
+            <FileRef
+               location = "group:buffersink.h">
+            </FileRef>
+            <FileRef
+               location = "group:avfilter.h">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:libavutil"
+            name = "libavutil">
+            <FileRef
+               location = "group:hwcontext.h">
+            </FileRef>
+            <FileRef
+               location = "group:time.h">
+            </FileRef>
+            <FileRef
+               location = "group:hwcontext_cuda.h">
+            </FileRef>
+            <FileRef
+               location = "group:intfloat.h">
+            </FileRef>
+            <FileRef
+               location = "group:error.h">
+            </FileRef>
+            <FileRef
+               location = "group:fifo.h">
+            </FileRef>
+            <FileRef
+               location = "group:blowfish.h">
+            </FileRef>
+            <FileRef
+               location = "group:hwcontext_mediacodec.h">
+            </FileRef>
+            <FileRef
+               location = "group:replaygain.h">
+            </FileRef>
+            <FileRef
+               location = "group:version.h">
+            </FileRef>
+            <FileRef
+               location = "group:murmur3.h">
+            </FileRef>
+            <FileRef
+               location = "group:stereo3d.h">
+            </FileRef>
+            <FileRef
+               location = "group:samplefmt.h">
+            </FileRef>
+            <FileRef
+               location = "group:pixdesc.h">
+            </FileRef>
+            <FileRef
+               location = "group:base64.h">
+            </FileRef>
+            <FileRef
+               location = "group:rational.h">
+            </FileRef>
+            <FileRef
+               location = "group:sha.h">
+            </FileRef>
+            <FileRef
+               location = "group:motion_vector.h">
+            </FileRef>
+            <FileRef
+               location = "group:avconfig.h">
+            </FileRef>
+            <FileRef
+               location = "group:lfg.h">
+            </FileRef>
+            <FileRef
+               location = "group:avutil.h">
+            </FileRef>
+            <FileRef
+               location = "group:hwcontext_vulkan.h">
+            </FileRef>
+            <FileRef
+               location = "group:xtea.h">
+            </FileRef>
+            <FileRef
+               location = "group:crc.h">
+            </FileRef>
+            <FileRef
+               location = "group:hwcontext_vdpau.h">
+            </FileRef>
+            <FileRef
+               location = "group:frame.h">
+            </FileRef>
+            <FileRef
+               location = "group:file.h">
+            </FileRef>
+            <FileRef
+               location = "group:md5.h">
+            </FileRef>
+            <FileRef
+               location = "group:cast5.h">
+            </FileRef>
+            <FileRef
+               location = "group:hwcontext_vaapi.h">
+            </FileRef>
+            <FileRef
+               location = "group:spherical.h">
+            </FileRef>
+            <FileRef
+               location = "group:ffversion.h">
+            </FileRef>
+            <FileRef
+               location = "group:hwcontext_opencl.h">
+            </FileRef>
+            <FileRef
+               location = "group:audio_fifo.h">
+            </FileRef>
+            <FileRef
+               location = "group:tree.h">
+            </FileRef>
+            <FileRef
+               location = "group:threadmessage.h">
+            </FileRef>
+            <FileRef
+               location = "group:attributes.h">
+            </FileRef>
+            <FileRef
+               location = "group:adler32.h">
+            </FileRef>
+            <FileRef
+               location = "group:hwcontext_d3d11va.h">
+            </FileRef>
+            <FileRef
+               location = "group:timecode.h">
+            </FileRef>
+            <FileRef
+               location = "group:dovi_meta.h">
+            </FileRef>
+            <FileRef
+               location = "group:tx.h">
+            </FileRef>
+            <FileRef
+               location = "group:sha512.h">
+            </FileRef>
+            <FileRef
+               location = "group:hwcontext_dxva2.h">
+            </FileRef>
+            <FileRef
+               location = "group:display.h">
+            </FileRef>
+            <FileRef
+               location = "group:buffer.h">
+            </FileRef>
+            <FileRef
+               location = "group:camellia.h">
+            </FileRef>
+            <FileRef
+               location = "group:pixelutils.h">
+            </FileRef>
+            <FileRef
+               location = "group:hwcontext_drm.h">
+            </FileRef>
+            <FileRef
+               location = "group:common.h">
+            </FileRef>
+            <FileRef
+               location = "group:hmac.h">
+            </FileRef>
+            <FileRef
+               location = "group:eval.h">
+            </FileRef>
+            <FileRef
+               location = "group:dict.h">
+            </FileRef>
+            <FileRef
+               location = "group:random_seed.h">
+            </FileRef>
+            <FileRef
+               location = "group:opt.h">
+            </FileRef>
+            <FileRef
+               location = "group:mastering_display_metadata.h">
+            </FileRef>
+            <FileRef
+               location = "group:log.h">
+            </FileRef>
+            <FileRef
+               location = "group:aes.h">
+            </FileRef>
+            <FileRef
+               location = "group:macros.h">
+            </FileRef>
+            <FileRef
+               location = "group:bswap.h">
+            </FileRef>
+            <FileRef
+               location = "group:rc4.h">
+            </FileRef>
+            <FileRef
+               location = "group:tea.h">
+            </FileRef>
+            <FileRef
+               location = "group:cpu.h">
+            </FileRef>
+            <FileRef
+               location = "group:lzo.h">
+            </FileRef>
+            <FileRef
+               location = "group:des.h">
+            </FileRef>
+            <FileRef
+               location = "group:channel_layout.h">
+            </FileRef>
+            <FileRef
+               location = "group:encryption_info.h">
+            </FileRef>
+            <FileRef
+               location = "group:twofish.h">
+            </FileRef>
+            <FileRef
+               location = "group:imgutils.h">
+            </FileRef>
+            <FileRef
+               location = "group:hwcontext_videotoolbox.h">
+            </FileRef>
+            <FileRef
+               location = "group:video_enc_params.h">
+            </FileRef>
+            <FileRef
+               location = "group:mem.h">
+            </FileRef>
+            <FileRef
+               location = "group:parseutils.h">
+            </FileRef>
+            <FileRef
+               location = "group:ripemd.h">
+            </FileRef>
+            <FileRef
+               location = "group:bprint.h">
+            </FileRef>
+            <FileRef
+               location = "group:hdr_dynamic_metadata.h">
+            </FileRef>
+            <FileRef
+               location = "group:hwcontext_qsv.h">
+            </FileRef>
+            <FileRef
+               location = "group:pixfmt.h">
+            </FileRef>
+            <FileRef
+               location = "group:aes_ctr.h">
+            </FileRef>
+            <FileRef
+               location = "group:timestamp.h">
+            </FileRef>
+            <FileRef
+               location = "group:downmix_info.h">
+            </FileRef>
+            <FileRef
+               location = "group:avassert.h">
+            </FileRef>
+            <FileRef
+               location = "group:hash.h">
+            </FileRef>
+            <FileRef
+               location = "group:mathematics.h">
+            </FileRef>
+            <FileRef
+               location = "group:intreadwrite.h">
+            </FileRef>
+            <FileRef
+               location = "group:film_grain_params.h">
+            </FileRef>
+            <FileRef
+               location = "group:avstring.h">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:libavdevice"
+            name = "libavdevice">
+            <FileRef
+               location = "group:version.h">
+            </FileRef>
+            <FileRef
+               location = "group:avdevice.h">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:libavformat"
+            name = "libavformat">
+            <FileRef
+               location = "group:version.h">
+            </FileRef>
+            <FileRef
+               location = "group:avio.h">
+            </FileRef>
+            <FileRef
+               location = "group:avformat.h">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:libswscale"
+            name = "libswscale">
+            <FileRef
+               location = "group:version.h">
+            </FileRef>
+            <FileRef
+               location = "group:swscale.h">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:libavcodec"
+            name = "libavcodec">
+            <FileRef
+               location = "group:adts_parser.h">
+            </FileRef>
+            <FileRef
+               location = "group:avcodec.h">
+            </FileRef>
+            <FileRef
+               location = "group:version.h">
+            </FileRef>
+            <FileRef
+               location = "group:vdpau.h">
+            </FileRef>
+            <FileRef
+               location = "group:codec_par.h">
+            </FileRef>
+            <FileRef
+               location = "group:qsv.h">
+            </FileRef>
+            <FileRef
+               location = "group:vaapi.h">
+            </FileRef>
+            <FileRef
+               location = "group:codec_desc.h">
+            </FileRef>
+            <FileRef
+               location = "group:videotoolbox.h">
+            </FileRef>
+            <FileRef
+               location = "group:xvmc.h">
+            </FileRef>
+            <FileRef
+               location = "group:mediacodec.h">
+            </FileRef>
+            <FileRef
+               location = "group:d3d11va.h">
+            </FileRef>
+            <FileRef
+               location = "group:avfft.h">
+            </FileRef>
+            <FileRef
+               location = "group:codec.h">
+            </FileRef>
+            <FileRef
+               location = "group:jni.h">
+            </FileRef>
+            <FileRef
+               location = "group:packet.h">
+            </FileRef>
+            <FileRef
+               location = "group:bsf.h">
+            </FileRef>
+            <FileRef
+               location = "group:codec_id.h">
+            </FileRef>
+            <FileRef
+               location = "group:dirac.h">
+            </FileRef>
+            <FileRef
+               location = "group:avdct.h">
+            </FileRef>
+            <FileRef
+               location = "group:ac3_parser.h">
+            </FileRef>
+            <FileRef
+               location = "group:vorbis_parser.h">
+            </FileRef>
+            <FileRef
+               location = "group:dxva2.h">
+            </FileRef>
+            <FileRef
+               location = "group:dv_profile.h">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:libswresample"
+            name = "libswresample">
+            <FileRef
+               location = "group:version.h">
+            </FileRef>
+            <FileRef
+               location = "group:swresample.h">
+            </FileRef>
+         </Group>
+      </Group>
+      <Group
+         location = "group:lib"
+         name = "lib">
+         <FileRef
+            location = "group:libavutil.a">
+         </FileRef>
+         <FileRef
+            location = "group:libavfilter.a">
+         </FileRef>
+         <FileRef
+            location = "group:libavcodec.a">
+         </FileRef>
+         <FileRef
+            location = "group:libpostproc.a">
+         </FileRef>
+         <FileRef
+            location = "group:libavformat.a">
+         </FileRef>
+         <FileRef
+            location = "group:libavdevice.a">
+         </FileRef>
+         <FileRef
+            location = "group:libswresample.a">
+         </FileRef>
+         <FileRef
+            location = "group:libswscale.a">
+         </FileRef>
+      </Group>
+   </Group>
+   <FileRef
+      location = "self:">
+   </FileRef>
+</Workspace>
